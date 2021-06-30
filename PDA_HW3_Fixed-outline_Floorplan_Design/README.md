@@ -1,4 +1,4 @@
-# PDA_HW2_Fixed-outline_Floorplan_Design
+# PDA_HW3_Fixed-outline_Floorplan_Design
 --How to Compile
 In this directory, enter the following command:
 $ make
