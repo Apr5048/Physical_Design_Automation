@@ -1,0 +1,18 @@
+--How to Compile
+In /src directory, enter the following command:
+$ make
+It will generate the exceutable file "hw5" in "HW5/bin/".
+
+If you want to remove it, please enter the following command:
+$make clean
+
+--How to Run
+In /src directory, enter the following command:
+Usage: make test <testcase>
+e.g.:
+$ make test 01
+
+In "HW5/bin/", enter the following command:
+Usage: ./<exe> <testcase file> <output file>
+e.g.:
+$ ./hw5 ../testcases/ibm01.modified.txt ../output/ibm01.result
