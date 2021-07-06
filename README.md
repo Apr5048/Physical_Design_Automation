@@ -10,8 +10,5 @@ Implement Fiduccia–Mattheyses algorithm to solve the problem of two-way min-cu
 ## Homework3: Fixed-outline Floorplan Design
 Implement B* Tree algorithm to solve the fixed-outline floorplan design with a set of hard blocks while minimizing the total wirelength.
 
-## Homework4: Placement Legalization
-Implement an existing algorithm, called “Abacus”, to legalize a given global placement result with minimal displacement.
-
 ## Homework5: Global Routing
 Implement an existing algorithm to solve the global routing problem with a set of 2-pin nets while minimizing the total wirelength.
